@@ -9,3 +9,6 @@ Dados abertos da prefeitura de São José dos Campos
 <img width="1732" height="845" alt="image" src="https://github.com/user-attachments/assets/258b9107-e66f-4bce-b27f-f0434e954139" />
 ## Desenvolvimento de fórmulas e gráfico no Excel 
 <img width="958" height="428" alt="image" src="https://github.com/user-attachments/assets/e89c0767-72d2-47b2-966a-9b863d82fd78" />
+## Atividade desenvolvida na aula de informática utilizando fórmulas no Excel
+Informações das tabelas de dados abertos de São José dos Campos e produção de gráfico
+<img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/24d5be6b-8575-49b8-b6f3-73658d2b350a" />
