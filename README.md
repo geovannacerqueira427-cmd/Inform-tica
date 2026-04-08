@@ -12,3 +12,6 @@ Dados abertos da prefeitura de São José dos Campos
 ## Atividade desenvolvida na aula de informática utilizando fórmulas no Excel
 Informações das tabelas de dados abertos de São José dos Campos e produção de gráfico
 <img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/24d5be6b-8575-49b8-b6f3-73658d2b350a" />
+## Atividade realizada em classe construindo gráfico para análise e comparação de total de itens pagos com dados abertos da Prefeitura
+Aplicamos funções para realizar a soma, a contagem dos valores e itens das tabelas de dados abertos da cidade
+<img width="630" height="379" alt="image" src="https://github.com/user-attachments/assets/9cbad9f5-7ed8-43f4-8f92-7a2ba07f0003" />
