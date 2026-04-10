@@ -7,15 +7,11 @@ https://www.canva.com/design/DAHBKUJJVUo/lK2pmHDd8xAn_D6QaaHt0Q/edit?utm_content
 ## Atividade realizada na disciplina informática, analisando Dados abertos e planilhas
 Dados abertos da prefeitura de São José dos Campos
 <img width="1732" height="845" alt="image" src="https://github.com/user-attachments/assets/258b9107-e66f-4bce-b27f-f0434e954139" />
-https://docs.google.com/spreadsheets/d/1cCGtOhw8ehG9WFrnlWlk-mVZ-ktVAs9i/edit?usp=drive_link&ouid=113104833187065271298&rtpof=true&sd=true
 ## Desenvolvimento de fórmulas e gráfico no Excel 
 <img width="958" height="428" alt="image" src="https://github.com/user-attachments/assets/e89c0767-72d2-47b2-966a-9b863d82fd78" />
-https://docs.google.com/spreadsheets/d/1MFU9B_AYI3rTcLWCqU40VbBWcEhf03cN/edit?usp=drive_link&ouid=113104833187065271298&rtpof=true&sd=true
 ## Atividade desenvolvida na aula de informática utilizando fórmulas no Excel
 Informações das tabelas de dados abertos de São José dos Campos e produção de gráfico
 <img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/24d5be6b-8575-49b8-b6f3-73658d2b350a" />
-https://docs.google.com/spreadsheets/d/1_GaPYFBcX3X6b2bsTKYDyXanDOAsMSzQ/edit?usp=drive_link&ouid=113104833187065271298&rtpof=true&sd=true
 ## Atividade realizada em classe construindo gráfico para análise e comparação de total de itens pagos com dados abertos da Prefeitura
 Aplicamos funções para realizar a soma, a contagem dos valores e itens das tabelas de dados abertos da cidade
 <img width="630" height="379" alt="image" src="https://github.com/user-attachments/assets/9cbad9f5-7ed8-43f4-8f92-7a2ba07f0003" />
-https://docs.google.com/spreadsheets/d/1_7Od2zNyhcQpnrfG-wDhoi-Ql0KXjUdf/edit?usp=drive_link&ouid=113104833187065271298&rtpof=true&sd=true
