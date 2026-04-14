@@ -7,6 +7,9 @@ https://www.canva.com/design/DAHBKUJJVUo/lK2pmHDd8xAn_D6QaaHt0Q/edit?utm_content
 ## Atividade realizada na disciplina informática, analisando Dados abertos e planilhas
 Dados abertos da prefeitura de São José dos Campos
 <img width="1732" height="845" alt="image" src="https://github.com/user-attachments/assets/258b9107-e66f-4bce-b27f-f0434e954139" />
+
+[balancete_receita (1).xlsx](https://github.com/user-attachments/files/26693480/balancete_receita.1.xlsx)
+
 ## Desenvolvimento de fórmulas e gráfico no Excel 
 <img width="958" height="428" alt="image" src="https://github.com/user-attachments/assets/e89c0767-72d2-47b2-966a-9b863d82fd78" />
 [balancete_receita.xlsx](https://github.com/user-attachments/files/26693448/balancete_receita.xlsx)
