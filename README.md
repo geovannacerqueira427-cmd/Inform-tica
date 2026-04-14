@@ -15,7 +15,7 @@ Informações das tabelas de dados abertos de São José dos Campos e produção
 ## Atividade realizada em classe construindo gráfico para análise e comparação de total de itens pagos com dados abertos da Prefeitura
 Aplicamos funções para realizar a soma, a contagem dos valores e itens das tabelas de dados abertos da cidade
 <img width="630" height="379" alt="image" src="https://github.com/user-attachments/assets/9cbad9f5-7ed8-43f4-8f92-7a2ba07f0003" />
-(fornecedores.1.xlsx)
+[fornecedores.xlsx](https://github.com/user-attachments/files/26693165/fornecedores.xlsx)
 
 
 
