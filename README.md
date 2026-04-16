@@ -35,7 +35,9 @@ Aplicamos funções para realizar a soma, a contagem dos valores e itens das tab
 Noções de programação em Python
 
 <img width="710" height="485" alt="image" src="https://github.com/user-attachments/assets/5511b74b-51c8-457b-9579-aebbb2786fec" />
+
 ## Atividade realizada em sala de aula utilizando fórmulas no Excel
+
 Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 <img width="585" height="196" alt="image" src="https://github.com/user-attachments/assets/03147911-68b8-4473-98c3-5db4efcab817" />
 
