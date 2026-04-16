@@ -25,6 +25,10 @@ Aplicamos funções para realizar a soma, a contagem dos valores e itens das tab
 <img width="630" height="379" alt="image" src="https://github.com/user-attachments/assets/9cbad9f5-7ed8-43f4-8f92-7a2ba07f0003" />
 
 (https://github.com/user-attachments/files/26693165/fornecedores.xlsx)
+## Atividade utilizando dados abertos sobre multas pagas
+<img width="808" height="513" alt="image" src="https://github.com/user-attachments/assets/6b227941-0bcc-4f94-b5e8-bbb18e5ab8e4" />
+
+[multas_pagas (3).xlsx](https://github.com/user-attachments/files/26799158/multas_pagas.3.xlsx)
 
 
 
