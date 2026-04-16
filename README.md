@@ -29,6 +29,7 @@ Aplicamos funções para realizar a soma, a contagem dos valores e itens das tab
 <img width="808" height="513" alt="image" src="https://github.com/user-attachments/assets/6b227941-0bcc-4f94-b5e8-bbb18e5ab8e4" />
 
 [multas_pagas (3).xlsx](https://github.com/user-attachments/files/26799158/multas_pagas.3.xlsx)
+
 ## Curso sobre Python 
 Noções de programação em Python
 
