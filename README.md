@@ -42,5 +42,10 @@ Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 <img width="585" height="196" alt="image" src="https://github.com/user-attachments/assets/03147911-68b8-4473-98c3-5db4efcab817" />
 
 [licenciamento_frota.xlsx](https://github.com/user-attachments/files/26803021/licenciamento_frota.xlsx)
+## Atividade realizada com a ferramenta Power BI
+
+<img width="1040" height="660" alt="image" src="https://github.com/user-attachments/assets/9771325c-7d95-4be0-8c35-07929a1c4499" />
+
+
 
 
