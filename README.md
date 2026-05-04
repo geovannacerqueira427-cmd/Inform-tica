@@ -41,6 +41,11 @@ Noções de programação em Python
 Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 <img width="585" height="196" alt="image" src="https://github.com/user-attachments/assets/03147911-68b8-4473-98c3-5db4efcab817" />
 
+## Atividade realizada com a ferramenta Power BI
+
+<img width="1115" height="519" alt="image" src="https://github.com/user-attachments/assets/e0aab18c-2dae-47e7-9119-5d3bebd221a1" />
+
+
 [licenciamento_frota.xlsx](https://github.com/user-attachments/files/26803021/licenciamento_frota.xlsx)
 ## Atividade realizada com a ferramenta Power BI
 
