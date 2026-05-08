@@ -52,6 +52,11 @@ Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 
 <img width="1040" height="660" alt="image" src="https://github.com/user-attachments/assets/9771325c-7d95-4be0-8c35-07929a1c4499" />
 
+## Utilizando o Power BI para comparar índices de trabalho com dados abertos 
+
+<img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/a39d4fb8-90d0-457b-a33b-e7ceeb81973f" />
+
+
 
 
 
