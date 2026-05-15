@@ -66,3 +66,8 @@ Usando o conjunto de dados Ice Cream Sales and Temperature
 <img width="1452" height="810" alt="image" src="https://github.com/user-attachments/assets/9006da31-f316-4117-bbda-e2cebdd91970" />
 
 
+## Regressão linear simples
+Usando o conjunto de dados winequality-red
+
+<img width="1557" height="803" alt="image" src="https://github.com/user-attachments/assets/a6b9d192-38e6-4e21-8f43-81694cdf7ef6" />
+
