@@ -54,6 +54,7 @@ Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 
 ## Utilizando o Power BI para comparar índices de trabalho com dados abertos 
 
+<img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/a39d4fb8-90d0-457b-a33b-e7ceeb81973f" />
 
 
 
@@ -62,15 +63,6 @@ Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 ## Regressão linear simples
 Usando o conjunto de dados Ice Cream Sales and Temperature
 
-<img width="1532" height="809" alt="image" src="https://github.com/user-attachments/assets/38d1b701-c2a2-4bfa-bc1f-c2bc2c77781f" />
-
-
 <img width="1452" height="810" alt="image" src="https://github.com/user-attachments/assets/9006da31-f316-4117-bbda-e2cebdd91970" />
-
-
-<img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/a39d4fb8-90d0-457b-a33b-e7ceeb81973f" />
-
-
-
 
 
