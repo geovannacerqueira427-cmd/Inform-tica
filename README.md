@@ -71,3 +71,10 @@ Usando o conjunto de dados winequality-red
 
 <img width="1557" height="803" alt="image" src="https://github.com/user-attachments/assets/a6b9d192-38e6-4e21-8f43-81694cdf7ef6" />
 
+## Utilizando Power BI para analisar vendas por temperatura
+
+extraímos o arquivo da plataforma Kagge
+
+<img width="1307" height="730" alt="image" src="https://github.com/user-attachments/assets/ffc44e00-93e7-443c-b2e2-bcec5c0780e8" />
+
+
