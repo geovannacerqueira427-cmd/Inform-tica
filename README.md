@@ -80,6 +80,4 @@ Usando o conjunto de dados winequality-red
 
 extraímos o arquivo da plataforma Kagge
 
-<img width="1307" height="730" alt="image" src="https://github.com/user-attachments/assets/ffc44e00-93e7-443c-b2e2-bcec5c0780e8" />
-
-
+<img width="1498" height="786" alt="image" src="https://github.com/user-attachments/assets/46bd439a-851d-4dc5-a9b0-7464115017c9" />
