@@ -55,13 +55,13 @@ Foi utilizado dados abertos do Estado SP utilizando fórmulas como a "SOMASES"
 ## Utilizando o Power BI para comparar índices de trabalho com dados abertos 
 ## Perguntas:
 Qual ano e mês o saldo de movimentação foi menor?
+
 R= Junho de 2020
+
 Qual sexo possui o maior saldo de movimentação em cada ano?
 
 
 <img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/a39d4fb8-90d0-457b-a33b-e7ceeb81973f" />
-
-
 
 
 
