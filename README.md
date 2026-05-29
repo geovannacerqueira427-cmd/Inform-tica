@@ -81,3 +81,18 @@ Usando o conjunto de dados winequality-red
 extraímos o arquivo da plataforma Kagge
 
 <img width="1498" height="786" alt="image" src="https://github.com/user-attachments/assets/46bd439a-851d-4dc5-a9b0-7464115017c9" />
+
+## Atividade realizada com a ferramenta Power BI
+
+## Perguntas:
+
+Qual município possui maior número de sinistros?
+
+R= São Paulo
+
+Qual o tipo de veículo tem mais sinistros registrados na região?
+
+R= Caminhão
+
+<img width="1299" height="721" alt="image" src="https://github.com/user-attachments/assets/1058f854-791d-4c49-b576-8042f6d28018" />
+
