@@ -86,13 +86,17 @@ extraímos o arquivo da plataforma Kagge
 
 ## Perguntas:
 
-Qual município possui maior número de sinistros?
+Qual município possui maior número de veículos com licenciamento atrasado?
 
 R= São Paulo
 
-Qual o tipo de veículo tem mais sinistros registrados na região?
+Qual o tipo de veículo tem  maior quantidade de atraso de licenciamento na região?
 
-R= Caminhão
+R= automovel
+
+Qual tipo de veículo tem menor número de licenciamento atrasado?
+
+R= Charrete
 
 <img width="1299" height="721" alt="image" src="https://github.com/user-attachments/assets/1058f854-791d-4c49-b576-8042f6d28018" />
 
