@@ -98,5 +98,27 @@ Qual tipo de veículo tem menor número de licenciamento atrasado?
 
 R= Charrete
 
+
 <img width="1299" height="721" alt="image" src="https://github.com/user-attachments/assets/1058f854-791d-4c49-b576-8042f6d28018" />
+
+
+## Prova de informática
+
+<img width="1308" height="702" alt="image" src="https://github.com/user-attachments/assets/3f6ef06d-e2af-42ad-8270-fbda046d2864" />
+
+
+## Perguntas
+
+Qual mês de 2023 teve o maior índice?
+
+R= Dezembro tendo média de 99.97
+
+O ano de 2026 está melhor que 2024 até agora?
+
+R= Não, pois caiu o índice
+
+Em 2013 qual mês teve índice mais alto?
+
+R= Junho
+
 
