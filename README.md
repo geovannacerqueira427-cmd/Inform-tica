@@ -122,3 +122,8 @@ Em 2013 qual mês teve índice mais alto?
 R= Junho
 
 
+## SUB
+
+<img width="1290" height="722" alt="image" src="https://github.com/user-attachments/assets/ebcf7623-668c-41d5-b1bd-bf061e760bc3" />
+
+Foi coletado arquivos csv em Dados abertos SP, criado tabela de apoio no Excel e por último as visualizações no Power BI possibilitando a análise e comparação entre diferentes municípios paulistas em relação a rebanho de animais-agricultura
